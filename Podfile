@@ -1,0 +1,7 @@
+platform :ios, '7.0'
+pod 'MZFormSheetController'
+pod 'CHTCollectionViewWaterfallLayout'
+pod 'Facebook-iOS-SDK'
+pod 'Parse', '~> 1.2'
+pod 'BBBadgeBarButtonItem'
+pod 'Bolts'

@@ -1,0 +1,30 @@
+PODS:
+  - BBBadgeBarButtonItem (1.0)
+  - Bolts (1.1.0)
+  - CHTCollectionViewWaterfallLayout (0.7)
+  - Facebook-iOS-SDK (3.14.1):
+    - Bolts
+  - MZAppearance (1.1.3)
+  - MZFormSheetController (2.3.4):
+    - MZAppearance (~> 1.1.3)
+  - Parse (1.2.19):
+    - Facebook-iOS-SDK (~> 3.11)
+
+DEPENDENCIES:
+  - BBBadgeBarButtonItem
+  - Bolts
+  - CHTCollectionViewWaterfallLayout
+  - Facebook-iOS-SDK
+  - MZFormSheetController
+  - Parse (~> 1.2)
+
+SPEC CHECKSUMS:
+  BBBadgeBarButtonItem: 9fd6089e0694ee1e9dfb96fb66fbcb4bfa22f3ee
+  Bolts: 91c2af8eae1d44e1dd75946a5b0ae04a43ea43e4
+  CHTCollectionViewWaterfallLayout: 184d3b6d5456b48e93ac97e93e606bd8b68aedcc
+  Facebook-iOS-SDK: e9b3d5ac54ee3e5e693f4eef470b97911b3d076d
+  MZAppearance: c88502c0c2345120630c34e09d5ff09e2969ba30
+  MZFormSheetController: 8c453908080c338274e68908849029435d3e2736
+  Parse: ffebaecaddd32cb52671010f81567c298ff93d04
+
+COCOAPODS: 0.33.1
